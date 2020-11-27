@@ -559,7 +559,7 @@ p {
 }
 @media (max-width: 767px) {
   .navbar-brand img {
-    width: 130px;
+    width: 60px;
   }
 }
 
@@ -1434,7 +1434,7 @@ p {
   color: #fff;
 }
 .single_testimonial h2 {
-  color: #aeaeae;
+  color: #ddd;
   text-align: center;
   font-size: 19px;
   font-weight: normal;

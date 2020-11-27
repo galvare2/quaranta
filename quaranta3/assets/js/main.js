@@ -1,5 +1,6 @@
 (function() {
-    
+    // 116a8e
+    // 207fa5
     "use strict";
     
     //===== Prealoder
@@ -24,10 +25,10 @@
 
         if (window.pageYOffset > sticky) {
             header_navbar.classList.add("sticky");
-            logo.setAttribute("src", "assets/images/logo_color.png")
+            logo.setAttribute("src", "assets/images/logo/logo_color.svg")
         } else {
             header_navbar.classList.remove("sticky");
-            logo.setAttribute("src", "assets/images/logo_white.png")
+            logo.setAttribute("src", "assets/images/logo/logo_white.svg")
         }
 
 
