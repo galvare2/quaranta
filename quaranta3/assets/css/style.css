@@ -1322,7 +1322,7 @@ p {
   padding: 20px;
   padding-right: 60px;
 }
-.single_team .team_content .team_name a {
+.single_team .team_content .team_name {
   font-size: 18px;
   font-weight: 500;
   color: #2B2A3D;
@@ -1331,9 +1331,6 @@ p {
   -ms-transition: all 0.3s ease-out 0s;
   -o-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
-}
-.single_team .team_content .team_name a:hover {
-  color: #E84E4E;
 }
 .single_team .team_content p {
   margin-top: 5px;

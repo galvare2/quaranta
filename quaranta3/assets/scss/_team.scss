@@ -28,16 +28,10 @@
         padding-right: 60px;
         
         & .team_name{
-            & a{
-                font-size: 18px;
-                font-weight: 500;
-                color: $heading-color;
-                @include transition(0.3s);
-
-                &:hover {
-                    color: $theme-color;
-                }
-            }
+            font-size: 18px;
+            font-weight: 500;
+            color: $heading-color;
+            @include transition(0.3s);
         }
         & p{
             margin-top: 5px;
